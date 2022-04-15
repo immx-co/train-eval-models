@@ -1,0 +1,10 @@
+results.txt
+Результаты сравнения нейросетей.xlsx
+eval.py
+datset_test.py
+classification_13classes_validation.zip
+classification_13classes.zip
+test_import
+classification_13classes_validation
+classification_13classes
+backup
